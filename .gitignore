@@ -1,0 +1,8 @@
+*.pyc
+*/*.pyc
+dataset/*
+results/*
+saved_models/*
+.vscode/*
+*.pt
+cifar-100-python*
