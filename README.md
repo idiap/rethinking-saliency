@@ -1,4 +1,4 @@
-# Saliency Map Interpretability as Generative Modelling
+# Rethinking the Role of Gradient Based Attribution Methods
 
 This is the reference implementation of the ICLR 2021 paper ["Rethinking the Role of Gradient-Based Attribution Methods for Model Interpretability"](https://openreview.net/forum?id=dYeAHXnpWJ4).
 
@@ -47,7 +47,7 @@ torch torchvision numpy matplotlib pandas
 ```
 
 ## Research
-If you found our work helpful for your research, please do consider citing us.
+If you found our work helpful for your research, please do consider citing our paper.
 ```
 @inproceedings{srinivas2021rethinking,
 title={Rethinking the Role of Gradient-based Attribution Methods for Model Interpretability},
